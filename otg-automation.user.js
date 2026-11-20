@@ -5,6 +5,8 @@
 // @description  Standalone OTG logging automation
 // @match        https://sales.crm.scaler.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/sgp-scaler/crm-otg-automation/edit/main/otg-automation.user.js
+// @downloadURL  https://raw.githubusercontent.com/sgp-scaler/crm-otg-automation/edit/main/otg-automation.user.js
 // ==/UserScript==
 
 (() => {

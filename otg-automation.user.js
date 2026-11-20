@@ -1,8 +1,7 @@
-
 // ==UserScript==
 // @name         Scaler CRM - OTG Automation (Standalone)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Standalone OTG logging automation
 // @match        https://sales.crm.scaler.com/*
 // @grant        none
@@ -521,7 +520,7 @@
                     padding: 11px 12px;
                     text-align: left;
                     background: #fff;
-                    color: #222;
+                    color: #333;
                     border: 0;
                     border-radius: 5px;
                     cursor: pointer;
